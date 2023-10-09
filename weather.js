@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { getArgs } from './helpers/args.js'
 import { getWeather } from './services/api.service.js'
 import { getIcon } from './services/icons.service.js'

@@ -1,5 +1,5 @@
 {
-	"name": "get-weather-cli-app",
+	"name": "weather-turbo-cli",
 	"version": "1.0.0",
 	"description": "cli for getting weather",
 	"main": "weather.js",
@@ -18,7 +18,7 @@
 		"node": ">=14"
 	},
 	"scripts": {
-		"start": "node index.js",
+		"start": "node weather.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [
